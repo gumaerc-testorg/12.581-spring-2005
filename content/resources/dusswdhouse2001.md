@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 resourcetype: Document
 title: dusswdhouse2001.pdf
 uid: 45951b99-1f5b-1aea-0d3d-296ed95eafa1

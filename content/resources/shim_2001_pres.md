@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 resourcetype: Document
 title: shim_2001_pres.pdf
 uid: 7f5e9452-a8bd-1f11-d67d-e1f4b9096755

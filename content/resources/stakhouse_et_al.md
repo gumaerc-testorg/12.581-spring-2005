@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 resourcetype: Document
 title: stakhouse_et_al.pdf
 uid: e21f1af1-d759-59c5-4b65-b03b47a58512

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 resourcetype: Document
 title: weidner.pdf
 uid: 703a45bc-f35b-5e7a-854c-ac060b767d3c
