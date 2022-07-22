@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81
 ---
@@ -49,7 +52,7 @@ Topography of the Transition Zone Seismic Discontinuities
 
 Iron Partitioning in a Pyrolite Mantle and the Nature of the 410-km Seismic Discontinuity ([PDF]({{< baseurl >}}/resources/p_irif_1998_sant)) (Courtesy of Javier Santillan. Used with permission.)
 
-The Effect of H2O on the 410-kilometer Seismic Discontinuity ([PDF]({{< baseurl >}}/resources/yao_1)) (Courtesy of Huajian Yao. Used with permission.)
+The Effect of H{{< sub "2" >}}O on the 410-kilometer Seismic Discontinuity ([PDF]({{< baseurl >}}/resources/yao_1)) (Courtesy of Huajian Yao. Used with permission.)
 
 
 {{< tdclose >}}
@@ -87,7 +90,7 @@ Elasticity of Forsterite to 16 GPa and the Composition of the Upper Mantle ([PDF
 
 Seismic Evidence for Olivine Phase Changes at the 410- and 660-kilometer Discontinuities ([PDF]({{< baseurl >}}/resources/lebedev)) (Courtesy of Rosalee Lamm. Used with permission.)
 
-The Post-spinel Transformation in Mg2SiO4 and its Relation to the 660-km Seismic Discontinuity ([PDF]({{< baseurl >}}/resources/shim_2001_pres)) (Courtesy of Scott Lundin. Used with permission.)
+The Post-spinel Transformation in Mg{{< sub "2" >}}SiO{{< sub "4" >}} and its Relation to the 660-km Seismic Discontinuity ([PDF]({{< baseurl >}}/resources/shim_2001_pres)) (Courtesy of Scott Lundin. Used with permission.)
 
 
 {{< tdclose >}}
@@ -104,9 +107,9 @@ The Post-spinel Transformation in Mg2SiO4 and its Relation to the 660-km Seismic
 {{< tdopen >}}
 
 
-Post-spinel Transition in Mg2SiO4 determined by High P-T in Situ X-ray Diffractometry ([PDF]({{< baseurl >}}/resources/p_kats_2003_sant)) (Courtesy of Javier Santillan. Used with permission.)
+Post-spinel Transition in Mg{{< sub "2" >}}SiO{{< sub "4" >}} determined by High P-T in Situ X-ray Diffractometry ([PDF]({{< baseurl >}}/resources/p_kats_2003_sant)) (Courtesy of Javier Santillan. Used with permission.)
 
-Effect of Water on the Spinel-postspinel Transformation in Mg2SiO4 ([PDF]({{< baseurl >}}/resources/p_hig_2001_rekhi)) (Courtesy of Sandeep Rekhi. Used with permission.)
+Effect of Water on the Spinel-postspinel Transformation in Mg{{< sub "2" >}}SiO{{< sub "4" >}} ([PDF]({{< baseurl >}}/resources/p_hig_2001_rekhi)) (Courtesy of Sandeep Rekhi. Used with permission.)
 
 
 {{< tdclose >}}
@@ -163,7 +166,7 @@ The Interaction of a Subducting Lithospheric Slab with a Chemical or Phase Bound
 
 Seismic Observations of Splitting of the Mid-transition Zone Discontinuity in Earth's Mantle ([PDF]({{< baseurl >}}/resources/dusswdhouse2001)) (Courtesy of Rosalee Lamm. Used with permission.)
 
-Tetragonal Structure of CaSiO3 Perovskite above 20 GPa ([PDF]({{< baseurl >}}/resources/shim_2002_csi_pv)) (Courtesy of Scott Lundin. Used with permission.)
+Tetragonal Structure of CaSiO{{< sub "3" >}} Perovskite above 20 GPa ([PDF]({{< baseurl >}}/resources/shim_2002_csi_pv)) (Courtesy of Scott Lundin. Used with permission.)
 
 
 {{< tdclose >}}
@@ -182,7 +185,7 @@ Tetragonal Structure of CaSiO3 Perovskite above 20 GPa ([PDF]({{< baseurl >}}/re
 
 Phase Transformations: Implications for Mantle Structure. In Earth's Deep Interior: Mineral Physics and Tomography from the Atomic to the Global Scale ([PDF]({{< baseurl >}}/resources/weidner))
 
-Strength and Elasticity of SiO2 across the Stishovite-CaCl2\-type Structural Phase Boundary ([PDF]({{< baseurl >}}/resources/yao_3)) (Courtesy of Huajian Yao. Used with permission.)
+Strength and Elasticity of SiO{{< sub "2" >}} across the Stishovite-CaCl{{< sub "2" >}}\-type Structural Phase Boundary ([PDF]({{< baseurl >}}/resources/yao_3)) (Courtesy of Huajian Yao. Used with permission.)
 
 
 {{< tdclose >}}
@@ -237,7 +240,7 @@ The D" Discontinuity and its Implications
 {{< tdopen >}}
 
 
-The Effect of Temperature on the Seismic Anisotropy of the Perovskite and Post-perovskite Polymorphs of MgSiO3 ([PDF]({{< baseurl >}}/resources/stakhouse_et_al)) (Courtesy of Scott Lundin. Used with permission.)
+The Effect of Temperature on the Seismic Anisotropy of the Perovskite and Post-perovskite Polymorphs of MgSiO{{< sub "3" >}} ([PDF]({{< baseurl >}}/resources/stakhouse_et_al)) (Courtesy of Scott Lundin. Used with permission.)
 
 Electronic Transitions in Perovskite: Possible Nonconvecting Layers in the Lower Mantle ([PDF]({{< baseurl >}}/resources/p_badr_2004_sant)) (Courtesy of Javier Santillan. Used with permission.)
 
