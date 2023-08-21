@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview, prerequisite, format and grading information
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -33,7 +35,7 @@ This course focuses on physical property changes, depth, and Clapeyron slopes of
 Format
 ------
 
-This course is structured as a series of student presentations based upon the course topics. Two students give presentations each week. See the [assignments]({{< baseurl >}}/pages/assignments) section.
+This course is structured as a series of student presentations based upon the course topics. Two students give presentations each week. See the {{% resource_link ae9bea3a-c7a0-6f9c-0937-5e7810fb9c81 "assignments" %}} section.
 
 Grading
 -------
