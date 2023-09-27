@@ -48,7 +48,10 @@
     "content": "47e2d182-b419-4557-592b-afc64de575b1",
     "website": "12-581-phase-transitions-in-the-earths-interior-spring-2005"
   },
-  "learning_resource_types": [],
-  "site_uid": "1696e5f8-638c-4606-8087-237603ff2e4a",
+  "learning_resource_types": [
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "2e517fa5-4f73-4c83-bc29-093a5dba5fd3",
+  "site_short_id": "12.581-spring-2005",
   "title": "Course Metadata"
 }
