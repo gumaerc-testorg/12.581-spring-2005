@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about effect of water on the spinel-postspinel
   transformation in Mg2SiO4.
 file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/c729e04fcfcbb8b74847009967b1669c_p_hig_2001_rekhi.pdf
+file_size: 69782
 file_type: application/pdf
 learning_resource_types:
 - Assignments
