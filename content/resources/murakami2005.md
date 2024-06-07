@@ -5,6 +5,7 @@ description: This resource provides information about pressure and temperature o
   MgPP (post-perovskite phase) and Mw and possible correlation with and implications
   for the seismic D"layer.
 file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/7e9efb9861ba341dbf693cc1971a23fe_murakami2005.pdf
+file_size: 127939
 file_type: application/pdf
 learning_resource_types:
 - Assignments
