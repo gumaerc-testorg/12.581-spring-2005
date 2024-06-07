@@ -5,6 +5,7 @@ description: This resource provides information about the effect of temperature 
   ab initio calculations, perovskite elastic moduli, transversely isotopic aggregate,
   bulk and shear modulus, seismic wave velocity and elegant retreat.
 file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/e21f1af1d75959c54b65b03b47a58512_stakhouse_et_al.pdf
+file_size: 497622
 file_type: application/pdf
 learning_resource_types:
 - Assignments
