@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about seismic evidence for olivine
   phase changes at the 410- and 660-kilometer discontinuities, seismically inferred
   clapeyron slope and correlation between TZ thickness and TZ temperature.
-file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/513a8ddd620b36792dd6b14b820a841d_lebedev.pdf
+file: /ol-ocw-studio-app/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/513a8ddd620b36792dd6b14b820a841d_lebedev.pdf
 file_size: 121061
 file_type: application/pdf
 learning_resource_types:
