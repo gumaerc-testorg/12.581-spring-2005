@@ -4,7 +4,7 @@ description: This resource provides information about elasticity of forsterite t
   16 GPa and the composition of the upper mantle, aggregate bulk and shear moduli
   of forsterite as a function of pressure and sound velocities in (Mg,Fe)2SiO4 along
   1250 C adiabat compared to seismic velocity profiles for upper mantle.
-file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/48fa32259767b9bb1d1f33f4a54172b8_p_duf_1996_rekhi.pdf
+file: /ol-ocw-studio-app/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/48fa32259767b9bb1d1f33f4a54172b8_p_duf_1996_rekhi.pdf
 file_size: 82001
 file_type: application/pdf
 learning_resource_types:

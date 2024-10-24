@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about evidence for a ubiquitous seismic
   discontinuity at the base of the mantle.
-file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/7cbebf6cb94001461be19b05417e1759_sidor_pres_final.pdf
+file: /ol-ocw-studio-app/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/7cbebf6cb94001461be19b05417e1759_sidor_pres_final.pdf
 file_size: 75555
 file_type: application/pdf
 learning_resource_types:
