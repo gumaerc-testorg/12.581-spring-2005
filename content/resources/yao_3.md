@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about strength and elasticity of SiO2
   across the stishovite-CaCl2-type structural phase boundary and why is stishovite
   important?
-file: /ol-ocw-studio-app/courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/23c622c816ebc03e33f5caf604813ae9_yao_3.pdf
+file: /courses/12-581-phase-transitions-in-the-earths-interior-spring-2005/23c622c816ebc03e33f5caf604813ae9_yao_3.pdf
 file_size: 240449
 file_type: application/pdf
 learning_resource_types:
